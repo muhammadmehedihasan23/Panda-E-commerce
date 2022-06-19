@@ -22,3 +22,35 @@
     padding: 9px 25px;
     cursor: pointer;
 }
+
+.categorie1, .categorie2, .categorie3{
+    padding: 10px 35px;
+    border-radius: 10px;
+}
+.categorie1{
+  background-color: #ff136f;
+}
+.categorie2{
+    background-color: wheat;
+}
+.categorie3{
+    background-color: blueviolet;
+}
+
+.categories h1{
+    color: white;
+}
+.categories img{
+    width: 100px;
+    
+}
+
+.card{
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px lightgray;
+}
+.card-footer{
+    background-color: white;
+    border-top: none;
+}
